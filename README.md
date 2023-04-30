@@ -19,10 +19,10 @@ Click on "Play Now" on the home page. Once the game is running, players take tur
 
 This Tic Tac Toe React game includes the following features:
 
--> Interactive game board with ability to click and place X or O
--> Real-time updates to game state displayed on the screen
--> Automatic detection of winning moves and end of game conditions
--> Restart game button to reset the game board and start a new game
+• Interactive game board with ability to click and place X or O
+• Real-time updates to game state displayed on the screen
+• Automatic detection of winning moves and end of game conditions
+• Restart game button to reset the game board and start a new game
 
 ## Credits
 This project was created by Abdul Rafae. If you have any questions or feedback, please contact me at abdul.rafae221@gmail.com
