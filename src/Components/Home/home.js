@@ -19,7 +19,7 @@ function Home() {
         </p>
         <p className="description">
           Our version of the game features stunning graphics, sound effects, and animations.
-          You can play with your loved ones. So, gather your friends and family,
+          You can play with your loved ones or against a computer. So, gather your friends and family,
           and get ready to experience the fun and excitement of Tic Tac Toe.
         </p>
         <Link to="/tictactoe" className="button-53">
