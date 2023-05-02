@@ -1,6 +1,6 @@
 # Tic Tac Toe React Game
 
-Welcome to the classic game of Tic Tac Toe, built as a React application! This game is designed for two players to compete against each other, taking turns placing either X or O on a 3x3 grid until one player has three in a row or all spaces are filled.
+Welcome to the classic game of Tic Tac Toe, built as a React application! This game is designed for two players to compete against each other or a single user can play against a computer as well, taking turns placing either X or O on a 3x3 grid until one player (or a computer) has three in a row or all spaces are filled.
 
 ## Getting Started
 
